@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Darths and Droids Linkifier
-// @namespace    http://darthsanddroids.net
+// @namespace    https://github.com/Solonarv/userscripts/blob/master/darthsanddroids.net/linkify.user.js
 // @version      0.1
 // @author       Solonarv
 // @match        http://darthsanddroids.net/episodes/*
