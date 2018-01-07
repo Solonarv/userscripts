@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KissAnime Ad Skipper
 // @namespace    https://github.com/Solonarv/userscripts
-// @version      0.1
+// @version      0.2
 // @description  Open KissAnime video directly in current tab
 // @author       Solonarv
 // @match        http://kissanime.ru/Anime/*
