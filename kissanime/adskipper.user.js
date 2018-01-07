@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Open KissAnime video directly in current tab
 // @author       Solonarv
-// @match        http://kissanime.*/Anime/*
+// @match        http://kissanime.ru/Anime/*
 // @grant        none
 // ==/UserScript==
 
